@@ -1,3 +1,3 @@
 # Robotic_arm
 
-<img src=C:\Users\DELL\Downloadsg" alt="Robotic Arm Circuit"/>
+<img src=C:\Users\DELL\Downloads" alt="Robotic Arm Circuit"/>
